@@ -1,0 +1,5 @@
+/Users/jb4/Desktop/Repos/Project/Project/bin/Debug/Project.exe
+/Users/jb4/Desktop/Repos/Project/Project/bin/Debug/Project.pdb
+/Users/jb4/Desktop/Repos/Project/Project/obj/x86/Debug/Project.csproj.CoreCompileInputs.cache
+/Users/jb4/Desktop/Repos/Project/Project/obj/x86/Debug/Project.exe
+/Users/jb4/Desktop/Repos/Project/Project/obj/x86/Debug/Project.pdb
